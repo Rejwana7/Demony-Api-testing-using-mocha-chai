@@ -125,7 +125,7 @@ Merchant Balance Verification
 
 ## Transaction Flow
 
-| ## Transaction |  ## Amount |
+|  Transaction |   Amount |
 |---|---:|
 | System → Agent Deposit | 5,000 Tk |
 | Agent → Customer Deposit | 2,000 Tk |
