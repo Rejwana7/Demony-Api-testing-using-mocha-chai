@@ -192,7 +192,7 @@ Latest test execution:
 
 ### NPM Test Output
 
-![NPM Test Output](Screenshot/npm_test_output.png)
+![IntegrationTest Output](Screenshot/npm_test_output.png)
 
 ### Integration Test Output
 
