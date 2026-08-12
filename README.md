@@ -125,7 +125,7 @@ Merchant Balance Verification
 
 ## Transaction Flow
 
-| Transaction | Amount |
+| ## Transaction |  ## Amount |
 |---|---:|
 | System → Agent Deposit | 5,000 Tk |
 | Agent → Customer Deposit | 2,000 Tk |
@@ -190,9 +190,9 @@ Latest test execution:
 
 ## Test Execution Evidence
 
-### NPM Test Output
+### Integration Test Output
 
-![IntegrationTest Output](Screenshot/npm_test_output.png)
+![Integration Test Output](Screenshot/npm_test_output.png)
 
 ### Integration Test Output
 
